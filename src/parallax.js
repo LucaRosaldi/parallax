@@ -149,7 +149,7 @@ const MAGIC_NUMBER = 30,
         pointerEvents: false,
         precision: 1,
         onReady: null,
-        selector: null,
+        selector: '[data-depth]',
         useInlinePosition: true
       }
 
